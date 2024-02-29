@@ -1,0 +1,25 @@
+canvas.BG_canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+body.SomeClass {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p.someBig{
+    font-size: 1000%;
+    color: black;
+}
+
+div.emtpySpace{
+    min-width: 100%;
+    height: 85%;
+    color: white;
+}
+
+.transition {
+    transition: 0.5s;
+}
