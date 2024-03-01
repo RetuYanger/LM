@@ -6,16 +6,17 @@ canvas.BG_canvas {
 }
 
 body.SomeClass {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 p.someBig{
-    font-size: 1000%;
+    font-size: 800%;
     color: black;
 }
 
 div.emtpySpace{
     min-width: 100%;
+    
     height: 85%;
     color: white;
 }
