@@ -9,14 +9,13 @@ body.SomeClass {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-p.someBig{
+p.someBig {
     font-size: 800%;
     color: black;
 }
 
-div.emtpySpace{
+div.emtpySpace {
     min-width: 100%;
-    
     height: 85%;
     color: white;
 }
